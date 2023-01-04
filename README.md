@@ -1,4 +1,4 @@
-# GameProgLab1GroupZPIzp01
+# GameProgLab1GroupZPIzp01_Lab1
 Шарай Ірина
 Група ЗПІ-зп01
 НМК ІПО (ФІОТ)
